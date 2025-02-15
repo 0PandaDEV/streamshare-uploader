@@ -1,5 +1,9 @@
 # Streamshare Uploader Changelog
 
+## [v1.2] - 2025-02-15
+
+- Add Chunked uploading
+
 ## [v1.1] - 2025-02-14
 
 - Rename "Upload File" command to "Upload Selected File"
